@@ -1,0 +1,40 @@
+form{
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    padding: 60px 264px;
+    gap: 28px;
+    margin-top: 36px;
+}
+
+#sign{
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 45px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.text{
+    display: flex;
+    justify-content: right;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:#B0B0B0;
+}
+
+.sign-text{
+    display: flex;
+    justify-content: center;
+    color:#B5B5B5;
+    margin: 16px 0;
+}
+
+.icons{
+    display: flex;
+    gap:30px;
+    justify-content: center;
+}

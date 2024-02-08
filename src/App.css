@@ -1,0 +1,14 @@
+.applogo{
+  display: flex;
+  flex-direction: column;
+  font-family: Poppins;
+}
+
+.main{
+  display: flex;
+  flex-direction: row;
+}
+
+.main > *{
+  width:100%;
+}
